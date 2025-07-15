@@ -1,0 +1,5 @@
+
+# Test CPT
+* Wait for and click on the "//span[normalize-space()='Account & Lists']" element
+* Enter "email@email.com" into the "//input[@id='ap_email_login']" element
+* Wait for and click on the "//input[@type='submit']" element

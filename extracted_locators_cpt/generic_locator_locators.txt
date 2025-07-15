@@ -1,0 +1,3 @@
+//input[@id='ap_email_login']
+//input[@type='submit']
+//span[normalize-space()='Account & Lists']
